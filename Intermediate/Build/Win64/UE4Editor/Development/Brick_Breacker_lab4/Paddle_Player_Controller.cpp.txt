@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\archivos UNREAL\Brick_Breacker_lab4\Intermediate\Build\Win64\UE4Editor\Development\Brick_Breacker_lab4\Definitions.Brick_Breacker_lab4.h
+C:\Users\Usuario\Desktop\archivos UNREAL\Brick_Breacker_lab4\Source\Brick_Breacker_lab4\Paddle_Player_Controller.h
+C:\Users\Usuario\Desktop\archivos UNREAL\Brick_Breacker_lab4\Intermediate\Build\Win64\UE4Editor\Inc\Brick_Breacker_lab4\Paddle_Player_Controller.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+C:\Users\Usuario\Desktop\archivos UNREAL\Brick_Breacker_lab4\Source\Brick_Breacker_lab4\Paddle.h
+C:\Users\Usuario\Desktop\archivos UNREAL\Brick_Breacker_lab4\Intermediate\Build\Win64\UE4Editor\Inc\Brick_Breacker_lab4\Paddle.generated.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Brick_Breacker_lab4",
+			"Path": "C:\\Users\\Usuario\\Desktop\\archivos UNREAL\\Brick_Breacker_lab4\\Source\\Brick_Breacker_lab4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Brick_Breacker_lab4Editor",
+			"Path": "C:\\Users\\Usuario\\Desktop\\archivos UNREAL\\Brick_Breacker_lab4\\Source\\Brick_Breacker_lab4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
